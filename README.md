@@ -11,6 +11,9 @@ This program runs on linux and will send an smtp email on the given server and p
 Sends emailText with emailFileAttachment as senderEmail to rcvEmail.
 The file attachment must be a text or similar file. Binary files are not supported.
 
+IMPORTANT:
+Do not send emails as anyone but yourself!
+
 Files required in directory: 
 main.cpp, smtpClient.h, smtpClient.cpp, clientServer.h, clientServer.cpp
 
