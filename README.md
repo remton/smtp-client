@@ -2,6 +2,7 @@
 simple smtp-client program to send a message with an optional text file attachment via command line on Linux 
 
 Author: Remington Ward
+
 Date: 11/04/2022
 
 This project was made for a class
